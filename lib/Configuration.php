@@ -42,7 +42,7 @@ class Configuration
      *
      * @var string
      */
-    protected $apiKey = '';
+    protected $apiKey = 'xnd_production_ijxMjRTGF2c19hZWGg90VI5hiAW6qwM6MkDBOwWDXMsblQvjr2lvhrUxIXiOAd';
 
 
     /**
@@ -57,7 +57,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'https://api.xendit.co';
+    protected $host = 'https://mmmdamotorparts.com';
 
     /**
      * User agent of the HTTP request, set to "OpenAPI-Generator/{version}/PHP" by default
@@ -320,7 +320,7 @@ class Configuration
     {
         return [
             [
-                "url" => "https://api.xendit.co",
+                "url" => "https://mmmdamotorparts.com",
                 "description" => "Xendit API Server",
             ]
         ];
