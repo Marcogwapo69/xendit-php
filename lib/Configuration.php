@@ -42,7 +42,7 @@ class Configuration
      *
      * @var string
      */
-    protected $apiKey = 'xnd_production_ijxMjRTGF2c19hZWGg90VI5hiAW6qwM6MkDBOwWDXMsblQvjr2lvhrUxIXiOAd';
+    protected $apiKey = 'asdfdsafsa';
 
 
     /**
